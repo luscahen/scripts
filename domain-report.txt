@@ -1,0 +1,545 @@
+Domain check report - Wed Feb  4 14:26:18 -03 2026
+----------------------------------
+Domain: alabamaplasticsurgery.com
+IP: 13.90.31.234
+Nameservers:
+ns23.domaincontrol.com.
+ns24.domaincontrol.com.
+Registrar: GoDaddy.com, LLC
+----------------------------------
+Domain: alaneuro.com
+IP: 4.150.189.46
+Nameservers:
+dns4.name-services.com.
+dns1.name-services.com.
+dns2.name-services.com.
+dns5.name-services.com.
+dns3.name-services.com.
+Registrar: eNom, LLC
+----------------------------------
+Domain: amersonevents.com
+IP: 45.59.163.99
+Nameservers:
+ns1.mysecurepage.net.
+ns2.mysecurepage.net.
+Registrar: GoDaddy.com, LLC
+----------------------------------
+Domain: ashleymacs.com
+IP: 151.101.1.75
+Nameservers:
+ns63.domaincontrol.com.
+ns64.domaincontrol.com.
+Registrar: GoDaddy.com, LLC
+----------------------------------
+Domain: auctions.weilwrecker.com
+IP: 13.90.31.234
+Nameservers:
+No NS found
+Registrar: No registrar found
+----------------------------------
+Domain: avialimo.com
+IP: 82.158.227.84
+Nameservers:
+n2.xundns.com.
+n1.xundns.com.
+Registrar: Gname.com Pte. Ltd.
+----------------------------------
+Domain: bahaburger.com
+IP: 165.227.91.87
+Nameservers:
+ns13.domaincontrol.com.
+ns14.domaincontrol.com.
+Registrar: GoDaddy.com, LLC
+----------------------------------
+Domain: bassprolegends.com
+IP: No IP found
+Nameservers:
+dns3.ipmanagerinc.net.
+dns2.ipmanagerinc.net.
+dns1.ipmanagerinc.net.
+Registrar: Key-Systems GmbH
+----------------------------------
+Domain: baumhowers.com
+IP: 23.236.62.147
+Nameservers:
+carl.ns.cloudflare.com.
+liberty.ns.cloudflare.com.
+Registrar: Wild West Domains, LLC
+----------------------------------
+Domain: bhambud.com
+IP: 172.67.144.93
+Nameservers:
+henrik.ns.cloudflare.com.
+wren.ns.cloudflare.com.
+Registrar: Network Solutions, LLC
+----------------------------------
+Domain: bhammortgage.com
+IP: 103.163.186.45
+Nameservers:
+ns27.domaincontrol.com.
+ns28.domaincontrol.com.
+Registrar: Wild West Domains, LLC
+----------------------------------
+Domain: billmurrayassociates.com
+IP: 139.177.206.14
+Nameservers:
+ns-1135.awsdns-13.org.
+ns-2029.awsdns-61.co.uk.
+ns-234.awsdns-29.com.
+ns-705.awsdns-24.net.
+Registrar: GoDaddy.com, LLC
+----------------------------------
+Domain: bjcc.org
+IP: 172.208.67.119
+Nameservers:
+dns1.p01.nsone.net.
+dns2.p01.nsone.net.
+dns3.p01.nsone.net.
+dns4.p01.nsone.net.
+Registrar: Network Solutions, LLC
+----------------------------------
+Domain: boeingclassic.com
+IP: 172.67.155.105
+Nameservers:
+albert.ns.cloudflare.com.
+beth.ns.cloudflare.com.
+Registrar: MarkMonitor Inc.
+----------------------------------
+Domain: caa-htsval.org
+IP: 104.232.38.113
+Nameservers:
+ns43.domaincontrol.com.
+ns44.domaincontrol.com.
+Registrar: GoDaddy.com, LLC
+----------------------------------
+Domain: capstonerealestateinvestments.com
+IP: 172.67.180.165
+Nameservers:
+howard.ns.cloudflare.com.
+tori.ns.cloudflare.com.
+Registrar: GoDaddy.com, LLC
+----------------------------------
+Domain: cjfs.bellmedia.io
+IP: bellmedia.io.
+Nameservers:
+bellmedia.io.
+apollo.ns.cloudflare.com.
+miki.ns.cloudflare.com.
+Registrar: No registrar found
+----------------------------------
+Domain: cjfsbham.org
+IP: 45.59.163.99
+Nameservers:
+ns44.worldnic.com.
+ns43.worldnic.com.
+Registrar: Network Solutions, LLC
+----------------------------------
+Domain: columbiapropertiesinc.com
+IP: 198.185.159.145
+Nameservers:
+dns1.p01.nsone.net.
+dns2.p01.nsone.net.
+dns3.p01.nsone.net.
+dns4.p01.nsone.net.
+Registrar: GoDaddy.com, LLC
+----------------------------------
+Domain: covpres.com
+IP: 198.185.159.145
+Nameservers:
+dns1.p07.nsone.net.
+dns2.p07.nsone.net.
+dns3.p07.nsone.net.
+dns4.p07.nsone.net.
+ns01.squarespacedns.com.
+ns02.squarespacedns.com.
+ns03.squarespacedns.com.
+ns04.squarespacedns.com.
+Registrar: Squarespace Domains LLC
+----------------------------------
+Domain: crazysistabrew.com
+IP: 172.67.210.78
+Nameservers:
+apollo.ns.cloudflare.com.
+miki.ns.cloudflare.com.
+Registrar: GoDaddy.com, LLC
+----------------------------------
+Domain: credexsystems.com
+IP: 141.193.213.11
+Nameservers:
+adelaide.ns.cloudflare.com.
+leif.ns.cloudflare.com.
+Registrar: GoDaddy.com, LLC
+----------------------------------
+Domain: ctubs.com
+IP: 52.20.84.62
+Nameservers:
+ns1.atom.com.
+ns2.atom.com.
+Registrar: Unstoppable Domains Inc.
+----------------------------------
+Domain: davesontheweb.com
+IP: 172.67.175.31
+Nameservers:
+apollo.ns.cloudflare.com.
+miki.ns.cloudflare.com.
+Registrar: Network Solutions, LLC
+----------------------------------
+Domain: designlab.zeekeeinteractive.com
+IP: 172.67.195.133
+Nameservers:
+No NS found
+Registrar: No registrar found
+----------------------------------
+Domain: donsspecialtymeats.com
+IP: 216.128.137.127
+Nameservers:
+art.ns.cloudflare.com.
+karina.ns.cloudflare.com.
+Registrar: GoDaddy.com, LLC
+----------------------------------
+Domain: dps2day.com
+IP: 76.223.54.146
+Nameservers:
+ns1.afternic.com.
+ns2.afternic.com.
+Registrar: Freename Limited
+----------------------------------
+Domain: earplug-injury.com
+IP: No IP found
+Nameservers:
+No NS found
+Registrar: No registrar found
+----------------------------------
+Domain: ebox.zeekeeinteractive.com
+IP: 104.21.60.99
+Nameservers:
+No NS found
+Registrar: No registrar found
+----------------------------------
+Domain: embassyhomebuilders.com
+IP: 13.90.31.234
+Nameservers:
+pdns05.domaincontrol.com.
+pdns06.domaincontrol.com.
+Registrar: GoDaddy.com, LLC
+----------------------------------
+Domain: embridgehomes.com
+IP: 3.91.122.143
+Nameservers:
+ns37.domaincontrol.com.
+ns38.domaincontrol.com.
+Registrar: GoDaddy.com, LLC
+----------------------------------
+Domain: eysterkeymediation.com
+IP: 104.21.9.254
+Nameservers:
+apollo.ns.cloudflare.com.
+miki.ns.cloudflare.com.
+Registrar: Wild West Domains, LLC
+----------------------------------
+Domain: fourfourcapital.com
+IP: 185.230.63.107
+Nameservers:
+ns10.wixdns.net.
+ns11.wixdns.net.
+Registrar: GoDaddy.com, LLC
+----------------------------------
+Domain: ftp.pmtpublishing.com
+IP: 13.90.31.234
+Nameservers:
+No NS found
+Registrar: No registrar found
+----------------------------------
+Domain: funaments.com
+IP: 13.90.31.234
+Nameservers:
+ns51.domaincontrol.com.
+ns52.domaincontrol.com.
+Registrar: GoDaddy.com, LLC
+----------------------------------
+Domain: gadsdenhealthcare.com
+IP: 185.230.63.186
+Nameservers:
+ns10.wixdns.net.
+ns11.wixdns.net.
+Registrar: GoDaddy.com, LLC
+----------------------------------
+Domain: gseattorneys.bellmedia.io
+IP: 172.67.140.215
+Nameservers:
+No NS found
+Registrar: No registrar found
+----------------------------------
+Domain: hooverpd.com
+IP: 104.21.24.35
+Nameservers:
+dana.ns.cloudflare.com.
+pablo.ns.cloudflare.com.
+Registrar: GoDaddy.com, LLC
+----------------------------------
+Domain: hospitalistservices.net
+IP: 15.197.142.173
+Nameservers:
+ns13.worldnic.com.
+ns14.worldnic.com.
+Registrar: Network Solutions, LLC
+----------------------------------
+Domain: huntertrees.bellmedia.io
+IP: 13.90.31.234
+Nameservers:
+No NS found
+Registrar: No registrar found
+----------------------------------
+Domain: huntertrees.com
+IP: 40.124.185.54
+Nameservers:
+ns61.domaincontrol.com.
+ns62.domaincontrol.com.
+Registrar: GoDaddy.com, LLC
+----------------------------------
+Domain: intranet.weilwrecker.com
+IP: 13.90.31.234
+Nameservers:
+No NS found
+Registrar: No registrar found
+----------------------------------
+Domain: intranet.zeekee.com
+IP: 104.21.39.148
+Nameservers:
+No NS found
+Registrar: No registrar found
+----------------------------------
+Domain: jeffcoda.org
+IP: 45.60.102.199
+Nameservers:
+ns2.jccal.org.
+ns1.jccal.org.
+Registrar: GoDaddy.com, LLC
+----------------------------------
+Domain: jennsubletthairproject.com
+IP: 76.223.54.146
+Nameservers:
+ns1.afternic.com.
+ns2.afternic.com.
+Registrar: Deschutesdomains.com LLC
+----------------------------------
+Domain: leitmanperlman.com
+IP: 100.24.208.97
+Nameservers:
+ns1.apmdns.com.
+ns2.apmdns.com.
+ns3.apmdns.com.
+ns4.apmdns.com.
+Registrar: GoDaddy.com, LLC
+----------------------------------
+Domain: m.vinnymcguires.com
+IP: 208.67.159.28
+Nameservers:
+No NS found
+Registrar: No registrar found
+----------------------------------
+Domain: medicalwesthospital.org
+IP: 172.208.67.119
+Nameservers:
+dns3.easydns.ca.
+dns1.easydns.com.
+dns2.easydns.net.
+Registrar: easyDNS Technologies Inc.
+----------------------------------
+Domain: midsouthpaving.com
+IP: 3.33.139.32
+Nameservers:
+ha1.markmonitor.zone.
+ha2.markmonitor.zone.
+ha3.markmonitor.zone.
+ha4.markmonitor.zone.
+Registrar: MarkMonitor Inc.
+----------------------------------
+Domain: mindshift-media.com
+IP: 76.223.105.230
+Nameservers:
+ns65.domaincontrol.com.
+ns66.domaincontrol.com.
+Registrar: GoDaddy.com, LLC
+----------------------------------
+Domain: moresondialplan.com
+IP: No IP found
+Nameservers:
+No NS found
+Registrar: No registrar found
+----------------------------------
+Domain: nikiswest.com
+IP: 172.67.195.65
+Nameservers:
+apollo.ns.cloudflare.com.
+miki.ns.cloudflare.com.
+Registrar: Wild West Domains, LLC
+----------------------------------
+Domain: noblecon.net
+IP: 23.100.43.208
+Nameservers:
+ns31.worldnic.com.
+ns32.worldnic.com.
+Registrar: Network Solutions, LLC
+----------------------------------
+Domain: nwendocrinologyanddiabetes.com
+IP: No IP found
+Nameservers:
+No NS found
+Registrar: No registrar found
+----------------------------------
+Domain: ot90wellness.com
+IP: No IP found
+Nameservers:
+No NS found
+Registrar: No registrar found
+----------------------------------
+Domain: ptortho.com
+IP: 69.167.187.17
+Nameservers:
+ns21.domaincontrol.com.
+ns22.domaincontrol.com.
+Registrar: GoDaddy.com, LLC
+----------------------------------
+Domain: reedgifoundation.com
+IP: 162.159.135.42
+Nameservers:
+carioca.ns.cloudflare.com.
+toby.ns.cloudflare.com.
+Registrar: GoDaddy.com, LLC
+----------------------------------
+Domain: relm.zeekeeinteractive.com
+IP: 104.21.60.99
+Nameservers:
+No NS found
+Registrar: No registrar found
+----------------------------------
+Domain: safehouse.org
+IP: 199.16.173.44
+Nameservers:
+dns1.registrar-servers.com.
+dns2.registrar-servers.com.
+Registrar: NameCheap, Inc.
+----------------------------------
+Domain: sleepandlungdocs.com
+IP: 172.67.187.50
+Nameservers:
+fiona.ns.cloudflare.com.
+jake.ns.cloudflare.com.
+Registrar: GoDaddy.com, LLC
+----------------------------------
+Domain: solsdeli.com
+IP: 172.67.209.88
+Nameservers:
+apollo.ns.cloudflare.com.
+miki.ns.cloudflare.com.
+Registrar: Name.com, Inc.
+----------------------------------
+Domain: southerncopper.com
+IP: 172.208.67.119
+Nameservers:
+ns43.domaincontrol.com.
+ns44.domaincontrol.com.
+Registrar: GoDaddy.com, LLC
+----------------------------------
+Domain: store.mcguiresirishpub.com
+IP: shops.myshopify.com.
+Nameservers:
+shops.myshopify.com.
+Registrar: No registrar found
+----------------------------------
+Domain: strawfire.com
+IP: 165.227.182.182
+Nameservers:
+ns3.digitalocean.com.
+ns2.digitalocean.com.
+ns1.digitalocean.com.
+Registrar: GoDaddy.com, LLC
+----------------------------------
+Domain: supremebeverage.com
+IP: 13.90.31.234
+Nameservers:
+ns2.p201.dns.oraclecloud.net.
+ns4.p201.dns.oraclecloud.net.
+ns1.p201.dns.oraclecloud.net.
+ns3.p201.dns.oraclecloud.net.
+Registrar: Register.com - Network Solutions, LLC
+----------------------------------
+Domain: suzieqconsulting.com
+IP: 76.223.67.189
+Nameservers:
+ns33.domaincontrol.com.
+ns34.domaincontrol.com.
+Registrar: GoDaddy.com, LLC
+----------------------------------
+Domain: trigon-inc.com
+IP: 13.90.31.234
+Nameservers:
+ns3.carrierzone.com.
+ns2.carrierzone.com.
+ns1.carrierzone.com.
+ns4.carrierzone.com.
+Registrar: Tucows Domains Inc.
+----------------------------------
+Domain: trussvilleemergencypetcare.com
+IP: 104.21.47.59
+Nameservers:
+apollo.ns.cloudflare.com.
+miki.ns.cloudflare.com.
+Registrar: Wild West Domains, LLC
+----------------------------------
+Domain: trussvilleurgentcare.com
+IP: 67.43.12.242
+Nameservers:
+ns63.domaincontrol.com.
+ns64.domaincontrol.com.
+Registrar: GoDaddy.com, LLC
+----------------------------------
+Domain: uloric-legalhelp.com
+IP: No IP found
+Nameservers:
+No NS found
+Registrar: No registrar found
+----------------------------------
+Domain: valsartan-legalhelp.com
+IP: No IP found
+Nameservers:
+No NS found
+Registrar: No registrar found
+----------------------------------
+Domain: veriphase.net
+IP: No IP found
+Nameservers:
+fred.ns.cloudflare.com.
+tegan.ns.cloudflare.com.
+Registrar: Ultahost, Inc.
+----------------------------------
+Domain: wdeapp.zeekeeinteractive.com
+IP: 172.67.195.133
+Nameservers:
+No NS found
+Registrar: No registrar found
+----------------------------------
+Domain: wjdb955.com
+IP: 100.24.208.97
+Nameservers:
+dns4.name-services.com.
+dns3.name-services.com.
+dns5.name-services.com.
+dns2.name-services.com.
+dns1.name-services.com.
+Registrar: eNom, LLC
+----------------------------------
+Domain: woltersdorfcontracting.com
+IP: No IP found
+Nameservers:
+No NS found
+Registrar: No registrar found
+----------------------------------
+Domain: zeekeeinteractive.com
+IP: 104.21.60.99
+Nameservers:
+apollo.ns.cloudflare.com.
+miki.ns.cloudflare.com.
+Registrar: Wild West Domains, LLC
+----------------------------------
