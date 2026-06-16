@@ -1,2 +1,0 @@
-# scripts
-work-related scripts
